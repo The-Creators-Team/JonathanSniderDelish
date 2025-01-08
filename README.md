@@ -1,3 +1,7 @@
+BE SURE TO RUN THIS PROJECT ON JAVA 11 IF YOU WANT IT TO FUNCTION. DO NOT UPDATE
+THE GRADLE WHEN REQUESTED ON OPENING IN ANDROID STUDIO.
+
+<img src=13304/209520971-4a896a72-4963-4d21-b94e-775d79ab5a7b.jpg" width="17%"/>
 ![GitHub Cards Preview](https://user-images.githubusercontent.com/8813304/111876563-f3566000-89a7-11eb-9f6f-27bc9c75d524.jpg)
 
 <h1 align="center">Delish</h1>
